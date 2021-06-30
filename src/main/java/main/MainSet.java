@@ -6,7 +6,7 @@ import java.util.HashSet;
 
 public class MainSet {
     public static void main(String[] args){
-        HashSet<Pessoa> pessoas = new HashSet<Pessoa>();
+        Set<Pessoa> pessoas = new HashSet<Pessoa>();
         System.out.println(pessoas.add(new Pessoa(1,"Lucas Ramon")));
         System.out.println(pessoas);
         System.out.println(pessoas.add(new Pessoa(1,"Lucas Ramon")));
