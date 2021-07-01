@@ -14,6 +14,12 @@ public class MainSet  {
         System.out.println(tabelaPessoas.get("legal"));
         tabelaPessoas.put("legal",new Pessoa(3,"Felipe"));
         System.out.println(tabelaPessoas.get("legal"));
+        // Iteração explícita- (Fail-Fast)
+        Iterator<String> iterator = tabelaPessoas.KeySet().iterator();
+        while(iterator.hasNext()){
+            String chave = iterator.next();
+            System.out.println(tabelaPessoas.get(chave).toString);
+        }
 
     }
 
