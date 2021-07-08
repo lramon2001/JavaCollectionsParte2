@@ -25,7 +25,7 @@
 - Study of LinkedHashMap / Estudi do LinkedHashMap
 - Study of TreeMap / estudo do TreeMap
 ## UML representation of the hierarchy of collection implementations in Java / Representação em UML da hierarquia das implementações de coleções no Java
-![imagem]()
+![imagem](https://github.com/lramon2001/JavaCollectionsParte2)
 ## History / História
 - See [Commit changes](https://github.com/lramon2001/JavaCollectionsParte2/commits/main) for details.
 
