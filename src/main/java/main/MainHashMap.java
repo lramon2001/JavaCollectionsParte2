@@ -4,7 +4,7 @@ import models.Pessoa;
 
 import java.util.HashSet;
 
-public class MainSet  {
+public class MainHashMap  {
 public static void main(String args[]){
     Map<String,Pessoa> mapaPessoas = new HashMap<String,Pessoa>();
     System.out.println(mapaPessoas.put("legal", new Pessoa(1,"Lucas")));
