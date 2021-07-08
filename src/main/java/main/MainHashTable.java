@@ -4,7 +4,7 @@ import models.Pessoa;
 
 import java.util.HashSet;
 
-public class MainSet  {
+public class MainHashTable  {
     public static void main(String args[]){
         HashTable<String,Pessoa> tabelaPessoas = new Hashtable<String,Pessoa>();
         tabelaPessoas.put("legal",new Pessoa(1,"Lucas Ramon"));

@@ -1,6 +1,6 @@
 package main;
 
-public class MainSet2 {
+public class MainLinkedHahSet {
     public static void main(String[] args){
         Set<Pessoa> pessoas = new LinkedSet<Pessoa>();
         System.out.println(pessoas.add(new Pessoa(1,"Lucas Ramon")));

@@ -4,9 +4,9 @@ import models.Pessoa;
 
 import java.util.HashSet;
 
-public class MainSet {
+public class MainSet  {
 public static void main(String args[]){
-    Set<Pessoa> pessoas = new TreeSet<Pessoa>();
+    Set<Pessoa> pessoas = new LinkedHashSet<Pessoa>();
     System.out.println(pessoas.add(new Pessoa(1,"Lucas Ramon")));
     System.out.println(pessoas);
     System.out.println(pessoas.add(new Pessoa(1,"Lucas Ramon")));
@@ -16,8 +16,4 @@ public static void main(String args[]){
     System.out.println(pessoas.add(new Pessoa(4,"Paulo")));
     System.out.println(pessoas);
 }
-
-
-
-
 }

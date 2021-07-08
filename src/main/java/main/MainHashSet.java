@@ -4,7 +4,7 @@ import models.Pessoa;
 
 import java.util.HashSet;
 
-public class MainSet  {
+public class MainHashSet  {
 public static void main(String args[]){
     Set<Pessoa> pessoas = new HashSet<Pessoa>();
     System.out.println(pessoas.add(new Pessoa(1,"Lucas Ramon")));
