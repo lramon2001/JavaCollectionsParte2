@@ -20,7 +20,10 @@
 - Fail-fast and non-fail-fast iterators/ Iterações fail-fast e non-fail-fast;
 
 ### Maps / Mapas
-
+- Maps Study / Estudo de Mapas;
+- Study of HashMap / Estudo do HashMap;
+- Study of LinkedHashMap / Estudi do LinkedHashMap
+- Study of TreeMap / estudo do TreeMap
 ## UML representation of the hierarchy of collection implementations in Java / Representação em UML da hierarquia das implementações de coleções no Java
 ![imagem](https://github.com/lramon2001/JavaCollectionsParte1/blob/main/UMLColllectionsJavaParte1.png)
 ## History / História
