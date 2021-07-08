@@ -15,9 +15,9 @@
 
 ### Hashtables / Tabelas de espalhamento
 - HashTables Study / Estudo das tabelas de espalhamento;
-- A relação entre as hashtables e o método hashcode();
-- Compreendendo o fator de carregamento em estruturas assosciativas;
-- Iterações fail-fast e non-fail-fast;
+- The relationship between hashtables and the hashcode() method / A relação entre as hashtables e o método hashcode();
+- Understanding the load factor in associative structures / Compreendendo o fator de carregamento em estruturas assosciativas;
+- Fail-fast and non-fail-fast iterators/ Iterações fail-fast e non-fail-fast;
 
 ### Maps / Mapas
 
